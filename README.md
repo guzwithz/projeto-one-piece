@@ -1,9 +1,12 @@
-# ☠️ Projeto One Piece - Semana do Zero ao Programador Contratado - Dev em Dobro
+# ☠️ Projeto One Piece - Semana do Zero ao Programador Contratado
 
-Uma homenagem digital à melhor tripulação dos sete mares.  
-Esse projeto é uma landing page interativa dos Chapéus de Palha, feita com HTML, CSS e JavaScript. E também sendo meu primeiro projeto de programação.
+### Uma homenagem à melhor tripulação dos sete mares. Esse projeto é uma landing page interativa dos Chapéus de Palha, feita com HTML, CSS e JavaScript. E também sendo meu primeiro projeto de programação.
 
-## 💡 Sobre o Projeto
+![luffy](https://github.com/user-attachments/assets/09e2a8ed-7320-43cd-89a5-088356228a16)
+
+
+## 📓 Sobre o Projeto
+
 
 Esse foi meu **primeiro projeto com programação**.  
 Criei durante a **Semana do Zero ao Programador Contratado da [Dev em Dobro](https://www.instagram.com/devemdobro/)**
@@ -12,9 +15,10 @@ A ideia é destacar cada personagem da tripulação de forma visual e intuitiva.
 
 
 ## 📺 Quer ver o projeto funcionando? 
+
 Acesse: [https://guzwithz.github.io/projeto-one-piece/](https://guzwithz.github.io/projeto-one-piece/)
 
-## 🚀 O que aprendi
+## 📖 O que aprendi
 
 Durante esse projeto, aprendi e pratiquei:
 
