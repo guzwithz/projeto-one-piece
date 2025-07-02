@@ -1,4 +1,4 @@
-# 🏴‍☠️ Projeto One Piece
+# 🏴‍☠️ Projeto One Piece - Semana do Zero ao Programador Contratado - Dev em Dobro
 
 Uma homenagem digital à melhor tripulação dos sete mares.  
 Esse projeto é uma landing page interativa dos Chapéus de Palha, feita com HTML, CSS e JavaScript — simples, direto, e com estilo.
@@ -6,7 +6,7 @@ Esse projeto é uma landing page interativa dos Chapéus de Palha, feita com HTM
 ## 💡 Sobre o Projeto
 
 Esse foi meu **primeiro projeto com programação**.  
-Criei durante a **semana do zero ao programador da [Dev em Dobro](https://www.instagram.com/devemdobro/)**
+Criei durante a **Semana do Zero ao Programador Contratado da [Dev em Dobro](https://www.instagram.com/devemdobro/)**
 
 A ideia é destacar cada personagem da tripulação de forma visual e intuitiva. Ao clicar em um membro da tripulação, você vê sua imagem em destaque com uma transição suave.
 
