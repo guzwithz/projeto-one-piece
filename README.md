@@ -1,57 +1,57 @@
-# 🏴‍☠️ Projeto One Piece - Tributo à Melhor Tripulação dos Sete Mares
+# 🏴‍☠️ Projeto One Piece
 
-Este é um projeto simples e estiloso feito com HTML, CSS e JavaScript para homenagear a tripulação do Chapéu de Palha! 🌊🍖
+Uma homenagem digital à melhor tripulação dos sete mares.  
+Esse projeto é uma landing page interativa dos Chapéus de Palha, feita com HTML, CSS e JavaScript — simples, direto, e com estilo.
 
-## 🔥 O que é isso?
+## 💡 Sobre o Projeto
 
-Uma página web interativa onde você pode clicar nos personagens da **tripulação do Luffy** e ver suas respectivas imagens em destaque. É visual, direto ao ponto, e feito na vibe dos fãs de One Piece.
+Esse foi meu **primeiro projeto com programação**.  
+Criei durante a **semana do zero ao programador da [Dev em Dobro](https://www.instagram.com/devemdobro/)**
 
-## 🎯 Funcionalidades
+A ideia é destacar cada personagem da tripulação de forma visual e intuitiva. Ao clicar em um membro da tripulação, você vê sua imagem em destaque com uma transição suave.
 
-- Interface responsiva 💻📱
-- Troca dinâmica de personagens com JavaScript ⚔️
-- Visual inspirado na estética do anime 🎌
-- Zero dependências externas — puro HTML, CSS e JS!
 
-## 🧩 Estrutura do Projeto
+## 📺 Quer ver o projeto funcionando? 
+Acesse: [https://guzwithz.github.io/projeto-one-piece/](https://guzwithz.github.io/projeto-one-piece/)
+
+## 🚀 O que aprendi
+
+Durante esse projeto, aprendi e pratiquei:
+
+- Estrutura básica de um site com HTML
+- Criação de layout e estilização com CSS
+- Responsividade usando media queries
+- Manipulação do DOM com JavaScript puro
+- Organização de arquivos e boas práticas de estrutura
+
+Primeiro contato, mas já fiquei apaixonado.
+
+## ✨ Funcionalidades
+
+- Layout responsivo para diversos tamanhos de tela
+- Troca dinâmica dos personagens com JS
+- Design baseado na estética do anime One Piece
+- 100% feito com HTML, CSS e JS
+
+## 📁 Estrutura
 
 ```
 projeto-one-piece/
-├── index.html              # Página principal
+├── index.html
 ├── src/
 │   ├── css/
-│   │   ├── reset.css       # Reset básico de estilos
-│   │   ├── style.css       # Estilos principais
-│   │   └── responsive.css  # Estilos responsivos
+│   │   ├── reset.css
+│   │   ├── style.css
+│   │   └── responsive.css
 │   ├── js/
-│   │   └── index.js        # Lógica de troca de personagens
-│   └── imagens/            # Personagens e elementos visuais
+│   │   └── index.js
+│   └── imagens/
 ```
 
-## 🚀 Como rodar o projeto
+## ⚠️ Aviso
 
-1. Clone o repositório ou baixe o `.zip`
-2. Abra o arquivo `index.html` no navegador
-3. Seja feliz navegando entre os membros da tripulação! 🐒👒
-
-```bash
-git clone https://github.com/seu-usuario/projeto-one-piece.git
-cd projeto-one-piece
-start index.html  # ou só dê dois cliques no arquivo
-```
-
-## 💡 Possíveis melhorias (se quiser evoluir o projeto)
-
-- Adicionar descrição de cada personagem
-- Incluir músicas ou efeitos sonoros
-- Converter para SPA com React ou Vue
-- Criar cards animados com CSS/JS
-
-## 🙌 Créditos
-
-Feito com amor por fãs de One Piece.  
-Imagens utilizadas com fins educacionais e sem fins lucrativos.
+Esse projeto é só um tributo de fã e um iniciante na programação. As imagens pertencem aos seus respectivos donos. Sem fins comerciais.
 
 ---
 
-> “Eu não vou morrer, parceiro.” – Gol D. Roger ⚓
+Feito por alguém que não quer ser o Rei dos Piratas, só o Rei do Front-end. 👒
